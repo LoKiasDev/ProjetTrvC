@@ -5,7 +5,7 @@ int main(void) {
     printf("hello, World!\n");
     int x, y;
     x = 10;
-    y = 30;
+    y = 20;
     printf("x = %d, y = %d\n", x, y);
     return 0;
 }
